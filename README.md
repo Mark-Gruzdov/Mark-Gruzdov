@@ -16,7 +16,7 @@ Welcome to my profile!
 ⚙️ Fixed a defect related to incorrect data loading into the system from the master source. As part of this work, I studied the data loading procedure into the system, identified the source of the problem, described the data loading mechanism, and made improvements to the data loading mechanism.
 
 ### 📫 How to reach me:
-- Telegram: https://t.me/Gruzdov_MV
+- ![Static Badge](https://img.shields.io/badge/:badgeContent) Telegram: https://t.me/Gruzdov_MV
 - Gmail: grumark198@gmail.com
 
 # My tech stack
