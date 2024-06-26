@@ -16,7 +16,7 @@ Welcome to my profile!
 ⚙️ Fixed a defect related to incorrect data loading into the system from the master source. As part of this work, I studied the data loading procedure into the system, identified the source of the problem, described the data loading mechanism, and made improvements to the data loading mechanism.
 
 ### 📫 How to reach me:
-- <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram&link=https%3A%2F%2Ft.me%2FGruzdov_MV">
+- <img href="https://t.me/Gruzdov_MV" alt="Static Badge" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram">
 - ![Static Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&labelColor=white): grumark198@gmail.com
 
 # My tech stack
