@@ -3,6 +3,7 @@ Welcome to my profile!
 
 ### About me
 🌱 I'm business/system analyst and currently learning development on Node.js
+
 🔭 I’m currently working on Department of Information Technologies of the City of Moscow (DIT)
 
 ### My education 📚
