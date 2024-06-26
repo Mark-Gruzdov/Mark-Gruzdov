@@ -17,7 +17,7 @@ Welcome to my profile!
 
 ### 📫 How to reach me:
 - <a href="https://t.me/Gruzdov_MV"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram"></a>
-- ![Static Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&labelColor=white): grumark198@gmail.com
+- <a href="grumark198@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&labelColor=white)</a>
 
 # My tech stack
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-f9ee25?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f9ee25&link=https%3A%2F%2Fecma-international.org%2F)
