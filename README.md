@@ -16,12 +16,16 @@ Welcome to my profile!
 ⚙️ Fixed a defect related to incorrect data loading into the system from the master source. As part of this work, I studied the data loading procedure into the system, identified the source of the problem, described the data loading mechanism, and made improvements to the data loading mechanism.
 
 ### 📫 How to reach me:
-- Telegram: https://t.me/Gruzdov_MV
-- Gmail: grumark198@gmail.com
+- ![Static Badge](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=Telegram): https://t.me/Gruzdov_MV
+- ![Static Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&labelColor=white): grumark198@gmail.com
 
 # My tech stack
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-f9ee25?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f9ee25&link=https%3A%2F%2Fecma-international.org%2F)
-
+![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=Postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![Static Badge](https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=Express)
+![Static Badge](https://img.shields.io/badge/NESTJS-E0234E?style=flat-square&logo=NestJS)
 
 
 <!--
