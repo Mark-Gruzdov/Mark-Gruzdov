@@ -13,6 +13,7 @@ Welcome to my profile!
 
 ### About my experience
 ⏱ Carried out a detailed description of the integration interaction service and subsequent updating of its requirements, resulting in increased fault tolerance through the improvement of service vulnerabilities and simplified testing through the updating of existing test cases.
+
 ⚙️ Fixed a defect related to incorrect data loading into the system from the master source. As part of this work, I studied the data loading procedure into the system, identified the source of the problem, described the data loading mechanism, and made improvements to the data loading mechanism.
 
 ### 📫 How to reach me:
