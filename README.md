@@ -8,9 +8,9 @@ Welcome to my profile!
 
 ### My education 📚
 - Platov South-Russian State Polytechnic University (NPI)
-    09.03.02 Information systems and technologies
+    - 09.03.02 Information systems and technologies
 - Hexlet
-    Node.js developer
+    - Node.js developer
 
 ### About my experience
 ⏱ Carried out a detailed description of the integration interaction service and subsequent updating of its requirements, resulting in increased fault tolerance through the improvement of service vulnerabilities and simplified testing through the updating of existing test cases.
