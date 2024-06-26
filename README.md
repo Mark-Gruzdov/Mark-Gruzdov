@@ -21,11 +21,11 @@ Welcome to my profile!
 
 # My tech stack
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-f9ee25?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f9ee25&link=https%3A%2F%2Fecma-international.org%2F)
-![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&labelColor=black)
-![Static Badge](https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=Postgresql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=Oracle&logoColor=white)
-![Static Badge](https://img.shields.io/badge/EXPRESS-000000?style=flat-square&logo=Express)
-![Static Badge](https://img.shields.io/badge/NESTJS-E0234E?style=flat-square&logo=NestJS)
+![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&labelColor=black)
+![Static Badge](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![Static Badge](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=Express)
+![Static Badge](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=NestJS)
 
 
 <!--
